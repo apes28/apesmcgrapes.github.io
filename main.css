@@ -19,11 +19,11 @@ h1 {
 
 .price {
   font-weight: bold;
-  color: blue;
+  color: black;
 }
 
 #brush {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 #frame {
